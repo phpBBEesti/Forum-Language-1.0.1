@@ -1,6 +1,6 @@
 */**
 *
-* Moon Phase extension for the phpBB Forum Software package.
+* Forum Language extension for the phpBB Forum Software package.
 * Estonian translation by phpBBeesti.ee <https://www.phpbbeesti.ee>
 *
 * @copyright (c) 2014 phpBB Limited <https://www.phpbb.com>
