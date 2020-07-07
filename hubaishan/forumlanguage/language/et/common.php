@@ -3,6 +3,7 @@
 /**
  *
  * Forum Language. An extension for the phpBB Forum Software package.
+ * Estonian translation by phpBBeesti.ee [Exabot]
  *
  * @copyright (c) 2017, Saeed Hubaishan, http://salafitech.net
  * @license GNU General Public License, version 2 (GPL-2.0)
@@ -20,7 +21,7 @@ if (empty($lang) || !is_array($lang))
 }
 
 $lang = array_merge($lang, array(
-	'FORUM_LANGUAGE'			=> 'Forum Language',
-	'DEFAULT_LANGUAGE'			=> 'Default Language',
-	'FL_AFTER_LANGUAGE_PACK_DELETED' => 'And all forums using this language have been reset to the board’s default language.',
+	'FORUM_LANGUAGE'			=> 'Foorumi keel',
+	'DEFAULT_LANGUAGE'			=> 'Vaikimisi keel',
+	'FL_AFTER_LANGUAGE_PACK_DELETED' => 'kõik seda keelt kasutavad foorumid on lähtestatud foorumi vaikekeelele.',
 ));
